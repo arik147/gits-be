@@ -1,11 +1,13 @@
 {
-  "name": "soal-1",
+  "name": "gits-be",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "first": "node soal1.js",
+    "second": "node soal2.js",
+    "third": "node soal3.js"
   },
   "author": "",
   "license": "ISC",
