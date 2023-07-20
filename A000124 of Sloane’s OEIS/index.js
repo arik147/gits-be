@@ -3,7 +3,7 @@ const prompt = require("prompt-sync")();
 
 // A000124 of Sloane’s OEIS function 
 function rumusA000124(input) {
-    // array 
+    // array result
     let array = [];
   
     // looping until input

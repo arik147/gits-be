@@ -64,16 +64,16 @@ function denseRanking(scores, gitsScores) {
 }
 
 // input n player
-const scoresPlayer = prompt("");
+const scoresPlayer = prompt('');
 // input array of scores
-const scoresInput = prompt("");
+const scoresInput = prompt('');
 // mapping from string input to array
 const scores = scoresInput.split(' ').map(Number);
 
 // input n gitsPlayer
-const gitsScoresPlayer = prompt("");
+const gitsScoresPlayer = prompt('');
 // input array of GITSscores
-const gitsScoresInput = prompt("");
+const gitsScoresInput = prompt('');
 // mapping from string input to array
 const gitsScores = gitsScoresInput.split(' ').map(Number);
 
